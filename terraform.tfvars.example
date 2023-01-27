@@ -1,0 +1,3 @@
+do_token     = "dop_v1_?????"
+ssh_key_name = "default"
+region       = "nyc1"
